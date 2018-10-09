@@ -31,3 +31,28 @@
 
  // Udefined
  var indefinido = undefined;
+
+ /**
+  * OPERADORES ARITMETICOS 
+  */
+
+  var suma = 3 + 6;
+  var resta = 7 - 3;
+  var multiplica = 8 * 8;
+  var division = 5 / 2;
+
+  // Modulo
+  var modulo = 6 % 2;
+
+  /**
+   * OPERADORES LÓGICOS
+   */
+
+   var mayorQue = 9 > 8;
+   var menorQue = 7 < 4;
+   var mayorQueOIgual = 7 >= 7;
+   var menorQueOIgual = 4 <= 3;
+   var igual = 4 == 3;
+   var desigual = 4 != 3;
+   
+   console.log(desigual)
